@@ -1,6 +1,6 @@
 package com.acte.backup;
 
-import com.acte.oops.Student;
+import com.acte.AcessModifiers.Student;
 
 public class MainBackUp {
 

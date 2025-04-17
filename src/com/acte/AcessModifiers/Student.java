@@ -1,4 +1,4 @@
-package com.acte.oops;
+package com.acte.AcessModifiers;
 
 public class Student {
 	//access modifiers
