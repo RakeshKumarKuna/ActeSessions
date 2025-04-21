@@ -8,9 +8,16 @@ public class MainApp {
 	public static void main(String[] args) {
 		//Animal obj=new Animal();
 		//obj.runningSpeed();
-		Dog objd=new Dog();
-		objd.typeofAnimal();
+		//Dog objd=new Dog();
+		//objd.typeofAnimal();
+		//single inheritence
+		//multi level inheritence
+		//hierarchical inheritence
+		Animal objd=new Dog();
+	
+		Animal demo=new Demo();
 		
+	
 	}
 
 }
