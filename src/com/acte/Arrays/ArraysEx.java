@@ -27,11 +27,20 @@ int age=45;
     arr[2]="999";
     arr[3]="874";
     arr[4]="784";
-    arr[5]="784";
+  //  arr[5]="784";
     for(int i=0;i<arr.length;i++) {
     	System.out.println(arr[i]);
     }
- //exception collections multithreading java8     
+ //exception collections multithreading java8    27-6  
+    System.out.println("*******************");
+    
+    System.out.println(Arrays.toString(arr));
+    Arrays.sort(arr);
+    System.out.println(Arrays.toString(arr));
+    System.out.println("*************");
+    int a[][]= {{2,5},{5,8}};
+   System.out.println(a[0][0]);
+ 
 	}
 
 }
